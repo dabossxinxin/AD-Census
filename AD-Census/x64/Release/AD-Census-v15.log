@@ -1,0 +1,19 @@
+﻿  main.cpp
+main.cpp(202): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(203): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(204): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(205): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(206): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(207): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(235): warning C4305: “初始化”: 从“double”到“float32”截断
+main.cpp(236): warning C4305: “初始化”: 从“double”到“float32”截断
+main.cpp(237): warning C4305: “初始化”: 从“double”到“float32”截断
+main.cpp(238): warning C4305: “初始化”: 从“double”到“float32”截断
+main.cpp(239): warning C4305: “初始化”: 从“double”到“float32”截断
+  正在生成代码
+  13 of 944 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  AD-Census-v15.vcxproj -> E:\Code\AD-Census-master\x64\Release\AD-Census-v15.exe
+  AD-Census-v15.vcxproj -> E:\Code\AD-Census-master\x64\Release\AD-Census-v15.pdb (Full PDB)
